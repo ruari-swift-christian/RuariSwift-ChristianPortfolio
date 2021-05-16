@@ -39,12 +39,12 @@ and total Covid-19 cases over the age of 65
 Goal: Global Choroplethic Map out the total number of reported foreign fighters who joined ISIS in each country and each continent. show bar graph of foreign fighter per a million
 citizens in each Western European Country
 
-#[Pie Chart of total percentile distribution of foreign fighters in Africa and Europe](https://public.tableau.com/profile/ruari.swift.christian#!/vizhome/ISISForeignFighterdata/ISISfighterPieChartsAfricaEurope)
+# [Pie Chart of total percentile distribution of foreign fighters in Africa and Europe](https://public.tableau.com/profile/ruari.swift.christian#!/vizhome/ISISForeignFighterdata/ISISfighterPieChartsAfricaEurope)
 
-#[PROJECT 4: Leaflet Map showing all ISIS Oil Facilities and Pie Charts of ISIS Finances](https://rpubs.com/rswift/768328)
+# [PROJECT 4: Leaflet Map showing all ISIS Oil Facilities and Pie Charts of ISIS Finances](https://rpubs.com/rswift/768328)
 
 Goal: Show a Interactive Satellite Map of all ISIS oil fields/Oil Refineries in Syria and Iraq usingthe leaflet R package. Show Smuggling Routes of ISIS oil in Turkey
 
 
-#[PROJECT 5: TIME SERIES PLOT OF COVID DEATHS IN EUROPE MARCH TO MAY 2021 IN PYTHON](https://github.com/ruari-swift-christian/covid-US-states-project/blob/main/europe%20covid%20cases%20march%20to%20may%202021.ipynb)
+# [PROJECT 5: TIME SERIES PLOT OF COVID DEATHS IN EUROPE MARCH TO MAY 2021 IN PYTHON](https://github.com/ruari-swift-christian/covid-US-states-project/blob/main/europe%20covid%20cases%20march%20to%20may%202021.ipynb)
 Goal: Show A Trended and de trended Time Series Plot of Covid Deaths each Day in Europe from March 2021 to May 12th 2021
