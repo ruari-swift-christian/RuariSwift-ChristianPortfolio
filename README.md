@@ -41,7 +41,7 @@ citizens in each Western European Country
 
 #[Pie Chart of total percentile distribution of foreign fighters in Africa and Europe](https://public.tableau.com/profile/ruari.swift.christian#!/vizhome/ISISForeignFighterdata/ISISfighterPieChartsAfricaEurope)
 
-#PROJECT 4: Leaflet Map showing all ISIS Oil Facilities and Pie Charts of ISIS Finances](https://rpubs.com/rswift/768328)
+#[PROJECT 4: Leaflet Map showing all ISIS Oil Facilities and Pie Charts of ISIS Finances](https://rpubs.com/rswift/768328)
 
 Goal: Show a Interactive Satellite Map of all ISIS oil fields/Oil Refineries in Syria and Iraq usingthe leaflet R package. Show Smuggling Routes of ISIS oil in Turkey
 
