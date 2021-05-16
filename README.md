@@ -54,7 +54,7 @@ and total Covid-19 cases over the age of 65
 
 <img width="1382" alt="Screen Shot 2021-05-16 at 5 04 36 PM" src="https://user-images.githubusercontent.com/74618671/118412584-d2894e80-b668-11eb-8b34-99392117ef3a.png">
 
-# PROJECT 3 : ISIS Foreign Fighter Data in Tableau](https://public.tableau.com/profile/ruari.swift.christian#!/vizhome/ISISForeignFighterdata/GlobalISISforeignFighterData)
+# [PROJECT 3 : ISIS Foreign Fighter Data in Tableau](https://public.tableau.com/profile/ruari.swift.christian#!/vizhome/ISISForeignFighterdata/GlobalISISforeignFighterData)
 Goal: Global Choroplethic Map out the total number of reported foreign fighters who joined ISIS in each country and each continent. show bar graph of foreign fighter per a million
 citizens in each Western European Country
 
