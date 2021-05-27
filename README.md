@@ -73,3 +73,26 @@ runs scored
 
 <img width="1125" alt="Screen Shot 2021-05-16 at 5 14 48 PM" src="https://user-images.githubusercontent.com/74618671/118412854-48da8080-b66a-11eb-927f-fb3d22c4c7a8.png">
 
+# Project 6: Mapping IAF Airstrikes and heatmap of Hamas rocket attacks in Israel during Palestine Crisis(May 6th to May 21st 2021
+* [Gif of heat map in QGIS animation of rocket/incendiary balloon attacks coming out of Gaza May 7th-May17th](https://streamable.com/ahb9x2)
+* [IAF Leaflet Map of Israeli airstrike targets against Hamas and Palestine government infrastructure published on Rpubs with markdown code](https://rpubs.com/rswift/773283)
+* Goal: geolocate targetted hamas locations throughout the Gaza strip with markers in leaflet
+* markers differentiated by color to indicate the type of target(example: Anti tank squad-Dark green, Anti Air target- Sky Blue)
+* Allow the info to come up by the user hovering over the marker
+* show a intro pop up of IAF aftermath information of total infrastructure damaged/destroyed, civilian casualties, and hamas senior leaders killed
+* show a title in the top right reading "PIJ/Hamas/Palestine Government sites targetted by IAF
+* Make the leaflet map a satellite map with english for city locations to be readable using Esri WorldMap
+<img width="677" alt="Screen Shot 2021-05-27 at 9 47 48 AM" src="https://user-images.githubusercontent.com/74618671/119838420-65c84c80-bed1-11eb-8dd3-f78cdedefe17.png">
+
+# [Project 7: Forecast Map of future natural gas prices in US aswell as yearly and weekly trends 1997-2020 and a Time series plot](https://rpubs.com/rswift/774737)
+* Project Goals: 
+* Create a Dygraph with user input of date range on teh bottom with adjusted trends forthe date range
+* Box Cot Transformation to show a forecast plot of possible trend of US natural gas prices in 2021 as well as less noise in the graph or less variability
+* show dashed lines in another prophet forecast map indicating points change in trend line 
+<img width="671" alt="Screen Shot 2021-05-27 at 8 18 30 AM" src="https://user-images.githubusercontent.com/74618671/119838612-8d1f1980-bed1-11eb-8bf5-953947bf6a19.png">
+<img width="670" alt="Screen Shot 2021-05-27 at 8 22 21 AM" src="https://user-images.githubusercontent.com/74618671/119838647-93ad9100-bed1-11eb-8df3-f38c22b42c7a.png">
+<img width="676" alt="Screen Shot 2021-05-27 at 9 10 30 AM" src="https://user-images.githubusercontent.com/74618671/119838756-a58f3400-bed1-11eb-9f3c-e8442bf022bd.png">
+<img width="659" alt="Screen Shot 2021-05-27 at 9 11 00 AM" src="https://user-images.githubusercontent.com/74618671/119838776-aa53e800-bed1-11eb-92c8-e49a759b4606.png">
+
+
+
