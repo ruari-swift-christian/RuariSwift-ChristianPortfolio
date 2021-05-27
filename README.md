@@ -89,9 +89,13 @@ runs scored
 * Create a Dygraph with user input of date range on teh bottom with adjusted trends forthe date range
 * Box Cot Transformation to show a forecast plot of possible trend of US natural gas prices in 2021 as well as less noise in the graph or less variability
 * show dashed lines in another prophet forecast map indicating points change in trend line 
+* Box Cot future forecat plot below:
 <img width="671" alt="Screen Shot 2021-05-27 at 8 18 30 AM" src="https://user-images.githubusercontent.com/74618671/119838612-8d1f1980-bed1-11eb-8bf5-953947bf6a19.png">
+* change in trends plot
 <img width="670" alt="Screen Shot 2021-05-27 at 8 22 21 AM" src="https://user-images.githubusercontent.com/74618671/119838647-93ad9100-bed1-11eb-8df3-f38c22b42c7a.png">
+*Default time series plot Titled "US Natural Gas Prices 1997-2020
 <img width="676" alt="Screen Shot 2021-05-27 at 9 10 30 AM" src="https://user-images.githubusercontent.com/74618671/119838756-a58f3400-bed1-11eb-9f3c-e8442bf022bd.png">
+* adjusted plot showing trends 2018-2020 and the selected time range on bottom 
 <img width="659" alt="Screen Shot 2021-05-27 at 9 11 00 AM" src="https://user-images.githubusercontent.com/74618671/119838776-aa53e800-bed1-11eb-92c8-e49a759b4606.png">
 
 
