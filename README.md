@@ -47,7 +47,7 @@ runs scored
 <img width="1095" alt="Screen Shot 2021-05-04 at 8 07 36 AM" src="https://user-images.githubusercontent.com/74618671/118412518-81795a80-b668-11eb-8992-226084ef00ec.png">
 
 <img width="393" alt="Screen Shot 2021-05-05 at 11 06 29 AM" src="https://user-images.githubusercontent.com/74618671/118412543-9fdf5600-b668-11eb-9091-faeaf5b01114.png">
-#[Covid US States Project in Tableau](https://public.tableau.com/profile/ruari.swift.christian#!/vizhome/Coviddata_16204214116870/Dashboard1)
+# [Covid US States Project in Tableau](https://public.tableau.com/profile/ruari.swift.christian#!/vizhome/Coviddata_16204214116870/Dashboard1)
 * Choroplethic Map of state population percentage out of total state population. other choroplethic maps of total cases recovered in each US State, Total Negative tests, and total Covid-19 cases over the age of 65
 
 <img width="1382" alt="Screen Shot 2021-05-16 at 5 04 36 PM" src="https://user-images.githubusercontent.com/74618671/118412584-d2894e80-b668-11eb-8b34-99392117ef3a.png">
